@@ -1,0 +1,27 @@
+{
+  "name": "react-native-easy-layout",
+  "version": "0.5.0",
+  "description": "一个类似flutter的react-native布局组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-studio/layout.git"
+  },
+  "keywords": [
+    "layout"
+  ],
+  "author": "react-native-studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/react-native-studio/layout/issues"
+  },
+  "homepage": "https://github.com/react-native-studio/layout#readme"
+  "dependencies": {
+    "react": "*",
+    "react-native":"*",
+    "prop-types":"*"
+  }
+}

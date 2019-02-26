@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-layout",
-  "version": "0.5.0",
+  "version": "0.5.5",
   "description": "一个类似flutter的react-native布局组件库",
   "main": "index.js",
   "scripts": {
